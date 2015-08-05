@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "renfe.com-hacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "renfe-hacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tonioriol@github.com/tonioriol/renfe.com-hacks.git"
+  },
+  "author": "tr0n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonioriol/renfe.com-hacks/issues"
+  },
+  "homepage": "https://github.com/tonioriol/renfe.com-hacks#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "jquery": "^2.1.4",
+    "laravel-elixir": "^3.1.1",
+    "underscore": "^1.8.3"
+  }
+}
