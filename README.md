@@ -1,7 +1,5 @@
 # renfe-hacks
 
-## Description
-
 Attach an automatic compensations link into the renfe.com website interface.
 
 ## Installation
@@ -19,7 +17,7 @@ Attach an automatic compensations link into the renfe.com website interface.
 2. Navigate to https://venta.renfe.com/vol/misCompras.do
 3. Select the date range of the tickets you want to check
 4. Push the button
-5. Now it will appear a button at the end of each ticket row telling you if you can or can't check for automatic
+5. Now it will appear a button at the end of each ticket row telling you if you can or can't check for an automatic compensation
 
 ## Issues
 
