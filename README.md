@@ -1,14 +1,14 @@
 # renfe-hacks
 
-Attach an automatic compensations link into the renfe.com website interface.
+Chrome extension that automatically generates compensation links into the renfe.com website interface.
 
 ## Installation
 
-1. Download the build folder
+1. Download this file: https://github.com/tonioriol/renfe.com-hacks/releases/download/v1.0.0/build.zip and unzip it
 2. Open chrome://extensions
 3. Enable developer mode
-4. Load the build folder
-5. That's it, you now will see a new icon in the Chrome toolbar
+4. Load the resulting unzipped folder
+5. That's it, now you will see a new icon in the Chrome toolbar
 
 
 ## Usage
